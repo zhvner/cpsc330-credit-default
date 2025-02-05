@@ -72,6 +72,9 @@ shap.summary_plot(shap_values, X_train, feature_names=X_train.columns)
 - **Ensemble Learning** by combining XGBoost and LightGBM.
 - **Adapting to Economic Changes** by integrating real-time financial data.
 
+## Personal Reflection
+My journey through this project has deepened my appreciation for the intersection of machine learning and financial risk analysis. Navigating challenges such as class imbalance and feature selection reinforced the importance of data preprocessing and model interpretability in real-world applications. My passion lies in leveraging AI to build transparent and ethical decision-making systems, ensuring that machine learning models not only predict outcomes but also provide actionable insights for businesses and individuals alike. I am particularly fascinated by how advanced techniques like SHAP and ensemble learning can improve model trustworthiness, and I look forward to further exploring their applications in finance and security.
+
 ## Conclusion
 This project demonstrates how machine learning can effectively predict financial risk. The combination of feature selection, model optimization, and explainability techniques enables better decision-making in the financial sector.
 
